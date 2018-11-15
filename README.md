@@ -1,5 +1,5 @@
 # FirstLibary
-It is a Custom textView
+It is a Custom TextView
 
 Step 1. Add the JitPack repository to your build file
 
